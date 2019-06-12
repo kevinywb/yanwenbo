@@ -56,10 +56,10 @@ var config = {
 
   // RSS配置
   rss: {
-    title: 'CNode：Node.js专业中文社区',
-    link: 'http://cnodejs.org',
+    title: '我是程序员',
+    link: 'http://yanwenbo.cn',
     language: 'zh-cn',
-    description: 'CNode：Node.js专业中文社区',
+    description: '专注于程序员的成长',
     //最多获取的RSS Item数量
     max_rss_items: 50
   },
@@ -69,10 +69,10 @@ var config = {
   // 邮箱配置
   mail_opts: {
     host: 'smtp.qq.com',
-    port: 25,
+    port: 465,
     auth: {
       user: 'kevinywb@vip.qq.com',
-      pass: 'ozskmzvhovhebgjj'
+      pass: 'iyjzwfzaftflbjfb'
     },
     ignoreTLS: true,
   },

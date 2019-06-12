@@ -40,7 +40,7 @@ var requestLog = require('./middlewares/request_log');
 var renderMiddleware = require('./middlewares/render');
 var logger = require('./common/logger');
 var helmet = require('helmet');
-var bytes = require('bytes')
+var bytes = require('bytes');
 
 
 // 静态文件目录
