@@ -14,7 +14,7 @@ var config = {
 
   name: '我是程序员', // 社区名字
   description: '专注于程序员的成长', // 社区的描述
-  keywords: 'web, javascript, nodejs, node, express, connect, socket.io',
+  keywords: 'react,spring,kubernetes,hash,node,.net core,docker,架构,数据,异常,锁,分布式,多线程,容器',
 
   // 添加到 html head 中的信息
   site_headers: [
